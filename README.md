@@ -2,7 +2,7 @@
 hello I'm Ody 🙋🏻‍♂️, a student from the faculty of informatics 👨🏻‍🎓, <br>I'm learning about programming 👨🏻‍💻
 
 
-## 🌐 My Social Media :
+## 🌐 Social Media :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mikaelodys) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikaelodysius) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mikaelody) 
 
 # 💻 :
